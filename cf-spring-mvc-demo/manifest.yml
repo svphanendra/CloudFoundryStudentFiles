@@ -1,6 +1,6 @@
 applications:
 - name: aig-demo-test
-  memory: 1G
+  memory: 768M
   # Add your name/initials to make the hostname unique
   host: aig-demo-test
   # Currently defaults to PWS
